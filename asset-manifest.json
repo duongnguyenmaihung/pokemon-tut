@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokemon-tut/static/css/main.28158047.css",
+    "main.js": "/pokemon-tut/static/js/main.2e68287b.js",
+    "index.html": "/pokemon-tut/index.html",
+    "main.28158047.css.map": "/pokemon-tut/static/css/main.28158047.css.map",
+    "main.2e68287b.js.map": "/pokemon-tut/static/js/main.2e68287b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28158047.css",
+    "static/js/main.2e68287b.js"
+  ]
+}
